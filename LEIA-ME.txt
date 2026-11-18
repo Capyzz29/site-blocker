@@ -1,0 +1,8 @@
+COMO COMPILAR O APK DIRETO PELO GALAXY S25 (GITHUB ACTIONS):
+
+1. Extraia este arquivo .zip no aplicativo "Meus Arquivos" do seu Galaxy S25.
+   (Importante: certifique-se de ativar "Exibir arquivos ocultos do sistema" nas configuracoes do Meus Arquivos para ver a pasta .github).
+2. Acesse github.com pelo navegador, crie uma conta (se nao tiver) e toque em "New Repository".
+3. Dê um nome (ex: site-blocker), marque "Add a README file" e toque em "Create repository".
+4. Dentro do repositorio, toque em "Add file" -> "Upload files", selecione as pastas e arquivos extraidos e confirme em "Commit changes".
+5. Vá na aba "Actions" do repositorio. Quando a compilacao ficar com um icone verde de concluido (cerca de 2 minutos), toque nela e baixe o arquivo "SiteBlocker-APK" na secao Artifacts.
